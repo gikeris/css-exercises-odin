@@ -1,0 +1,16 @@
+.uno{
+    background-color: pink;
+    font-size: 25px;
+}
+#uno{
+    color: blue;
+    font-size: 50px;
+}
+.uno.dos{
+    font-size: 40px;
+}
+#another{
+    background-color: lightgreen;
+    font-size: 40px;
+    font-weight: bold;
+}
